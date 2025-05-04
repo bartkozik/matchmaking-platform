@@ -16,6 +16,10 @@ I’m currently working as **one of two frontend developers** on this ongoing pr
 - Integrating logic and state with MobX where required
 - Working closely with designers and backend developers to align implementation with specs and API structure
 
+- As one of two frontend developers, I regularly worked with the product owner and backend developers to shape form logic and user flows. I had **direct and ongoing contact with the client**, including participation in demo sessions, collaborative discussions, and feedback analysis. I was actively involved in proposing technical solutions to **new or unexpected requirements**, helping translate ideas into feasible implementations within tight timelines.
+
+The project followed Agile methodology with Jira, and collaboration flowed continuously through Figma, Notion, and Slack. My clear communication, strong ownership, and proactive time management were essential in delivering complex, multi-step forms and the organization management interface with consistency and flexibility.
+
 The platform was designed with a complete Figma-based UI system, which we follow closely in development.
 
 ## 🛠️ Tech Stack
